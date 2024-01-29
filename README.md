@@ -4,5 +4,6 @@ Hack The Box is an online platform immersing users in cybersecurity and penetrat
 
 <h2>Modules that I have finished</h2>
 
-- <b>Linux Fundamentals</b> 
-- <b>Introduction to Networking</b>
+-[Linux Fundamentals](https://academy.hackthebox.com/achievement/badge/a6023ec1-bdf4-11ee-a670-bea50ffe6cb4)
+-[Introduction to Networking](https://academy.hackthebox.com/achievement/badge/b88868c0-bdf1-11ee-a670-bea50ffe6cb4)
+
